@@ -1,4 +1,4 @@
-module github.com/dlopes7/dynatrace-openkit-go
+module github.com/rwinscot/dynatrace-openkit-go
 
 go 1.15
 
