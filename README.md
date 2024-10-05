@@ -6,7 +6,7 @@ It is **not** officially supported by Dynatrace.
 
 ## Install
 
-`go get github.com/dlopes7/dynatrace-openkit-go`
+`go get github.com/rwinscot/dynatrace-openkit-go`
 
 ## Sample
 
@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo"
 	"math/rand"
 )
 

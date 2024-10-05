@@ -1,8 +1,8 @@
 package core
 
 import (
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/configuration"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/protocol"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/configuration"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/protocol"
 	"net/http"
 	"time"
 )

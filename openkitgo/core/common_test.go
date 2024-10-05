@@ -2,9 +2,9 @@ package core
 
 import (
 	"crypto/tls"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/caching"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/configuration"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/providers"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/caching"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/configuration"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/providers"
 	log "github.com/sirupsen/logrus"
 	"net/http"
 	"os"

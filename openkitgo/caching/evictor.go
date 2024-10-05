@@ -1,7 +1,7 @@
 package caching
 
 import (
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/configuration"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/configuration"
 	log "github.com/sirupsen/logrus"
 	"time"
 )

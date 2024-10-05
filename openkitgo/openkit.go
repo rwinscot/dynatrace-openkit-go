@@ -1,8 +1,8 @@
 package openkitgo
 
 import (
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/core"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/interfaces"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/core"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/interfaces"
 )
 
 func NewOpenKitBuilder(endpointURL string, applicationID string, deviceID int64) interfaces.OpenKitBuilder {

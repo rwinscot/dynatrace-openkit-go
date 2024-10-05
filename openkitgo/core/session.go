@@ -2,9 +2,9 @@ package core
 
 import (
 	"fmt"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/configuration"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/interfaces"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/protocol"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/configuration"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/interfaces"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/protocol"
 	log "github.com/sirupsen/logrus"
 	"sync"
 	"time"

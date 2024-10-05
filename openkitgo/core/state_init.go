@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/protocol"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/protocol"
 	log "github.com/sirupsen/logrus"
 	"math"
 	"net/http"

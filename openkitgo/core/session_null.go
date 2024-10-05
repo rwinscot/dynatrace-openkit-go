@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/interfaces"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/interfaces"
 	"time"
 )
 

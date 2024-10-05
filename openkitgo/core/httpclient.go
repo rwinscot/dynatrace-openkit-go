@@ -3,9 +3,9 @@ package core
 import (
 	"bytes"
 	"compress/gzip"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/configuration"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/protocol"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/utils"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/configuration"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/protocol"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/utils"
 	log "github.com/sirupsen/logrus"
 	"io/ioutil"
 	"net/http"

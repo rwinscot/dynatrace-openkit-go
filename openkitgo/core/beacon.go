@@ -2,12 +2,12 @@ package core
 
 import (
 	"fmt"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/caching"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/configuration"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/interfaces"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/protocol"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/providers"
-	"github.com/dlopes7/dynatrace-openkit-go/openkitgo/utils"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/caching"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/configuration"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/interfaces"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/protocol"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/providers"
+	"github.com/rwinscot/dynatrace-openkit-go/openkitgo/utils"
 	log "github.com/sirupsen/logrus"
 	"math/rand"
 	"net/url"
